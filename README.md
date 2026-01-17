@@ -7,7 +7,7 @@ Regression techniques are applied to analyze how numerical employee attributes i
 
 
 ## 📂 Dataset Description
-- **Source:** Employee Attrition Dataset
+- **Source:** https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis
 - **Target Variable:** `satisfaction_level`
 - **Feature Type:** Numerical demographic and psychometric variables
 - **Preprocessing:** Missing values handled, irrelevant identifiers removed
